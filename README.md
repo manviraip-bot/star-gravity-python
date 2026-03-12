@@ -2,7 +2,7 @@
 
 This project simulates stars moving in space that are attracted to the mouse cursor like a gravity field.
 
-Description
+Description : 
 The program generates stars at random positions on the screen. 
 When the mouse moves near them, the stars move towards the cursor creating a gravity-like effect.
 
