@@ -20,5 +20,5 @@ How to Run
 2. Run the file using Python
 3. Move the mouse to see stars getting attracted
 
-Purpose
+Purpose : 
 This project demonstrates a simple simulation of gravity using Python animation.
